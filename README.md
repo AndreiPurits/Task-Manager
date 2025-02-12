@@ -70,8 +70,7 @@ python manage.py runserver
 ```
 Now you can access the application by navigating to http://127.0.0.1:8000/ in your browser.
 
-## Usage
-# Pages
+# Usage
 
 Task List: Displays all tasks. You can edit or delete existing tasks from this page.
 Create Task: A form to create a new task. You can specify the title, priority, and due date.
